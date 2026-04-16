@@ -1,2 +1,2 @@
 # DGSA-dashboard
-DGSA dashboard projec
+DGSA dashboard project
